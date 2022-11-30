@@ -1,0 +1,2 @@
+/home/margo/hello.o
+
